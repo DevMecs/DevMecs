@@ -2,17 +2,47 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:111111,100:000000&height=180&section=header&text=Matheus%20Schier&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Back-End%20Developer%20%7C%20Cybersecurity%20Enthusiast&descAlignY=55&descSize=17"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=900&color=FFFFFF&center=true&vCenter=true&repeat=true&width=700&height=45&lines=Back-End+Developer+%E2%9A%99%EF%B8%8F;Python+%7C+Linux+%7C+PostgreSQL;APIs+%7C+Automation+%7C+Infrastructure;Exploring+Cybersecurity+%26+Information+Security;Always+learning.+Always+building." alt="Typing SVG" />
-
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=DevMecs&style=for-the-badge&color=111111&label=PROFILE+VIEWS" alt="Profile views"/>
+<img
+  src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3000&pause=900&color=FFFFFF&center=true&vCenter=true&repeat=true&width=800&height=45&lines=Back-End+Developer+%E2%9A%99%EF%B8%8F;Python+%7C+Linux+%7C+PostgreSQL;APIs+%7C+Automation+%7C+Infrastructure;Exploring+Cybersecurity+%26+Information+Security;Always+learning.+Always+building."
+  alt="Typing SVG"
+/>
+
+<br><br>
+
+<table>
+  <tr>
+
+<td width="250" align="center">
+      <img
+        width="180"
+        src="https://raw.githubusercontent.com/DevMecs/DevMecs/main/assets/gon.gif"
+        alt="Gon GIF"
+      />
+</td>
+
+<td width="250" align="center">
+      <img
+        src="https://komarev.com/ghpvc/?username=DevMecs&style=for-the-badge&color=111111&label=PROFILE+VIEWS"
+        alt="Profile views"
+      />
+    </td>
+
+<td width="250" align="center">
+      <img
+        width="180"
+        src="https://raw.githubusercontent.com/DevMecs/DevMecs/main/assets/gon.gif"
+        alt="Gon GIF"
+      />
+    </td>
+
+  </tr>
+</table>
 
 </div>
 
 <br>
-
-<img align="right" width="310" src="https://raw.githubusercontent.com/DevMecs/DevMecs/main/assets/gon.gif" alt="Gon GIF"/>
 
 ### `> whoami`
 

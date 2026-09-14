@@ -164,5 +164,3 @@ I enjoy working with **Linux environments**, databases and clean code — always
 <sub>「 simplicity is the soul of efficiency 」</sub>
 
 </div>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:111111,100:000000&height=120&section=footer"/>
